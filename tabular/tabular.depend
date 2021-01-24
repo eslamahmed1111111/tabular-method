@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555083186 source:e:\sds\tabular\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
